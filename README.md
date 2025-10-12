@@ -303,6 +303,12 @@ const currentFocus = {
 
 <br/>
 
+---
+
+<sub><em>💭 I'm iterating daily, so what you see today will probably change tomorrow</em></sub>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=120&section=footer" width="100%"/>
 
 </div>
