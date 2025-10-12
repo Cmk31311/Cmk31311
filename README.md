@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=200&section=header&text=Khadar%20Chittor&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20AI%20Developer%20%7C%20Hackathon%20Enthusiast&descAlignY=55&descAlign=50&descSize=20" width="100%"/>
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=👋+Welcome+to+my+Digital+Space!;🤖+AI+Engineer+%7C+Hackathon+Winner;💻+Building+the+Future+with+AI;🚀+Let's+Create+Something+Amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=👋+Welcome+to+my+Digital+Space!;🤖+AI+Engineer+%7C+Hackathon+Enthusiast;💻+Building+the+Future+with+AI;🚀+Let's+Create+Something+Amazing!" alt="Typing SVG" />
 </h1>
 
 <br/>
@@ -96,7 +96,7 @@ Specialties:
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br>
 
 ### 💻 Languages & Frameworks
 <p>
@@ -152,8 +152,6 @@ Specialties:
 
 **NASA Space Biology Knowledge Engine**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="50"/>
-
 *A production-ready RAG dashboard with semantic search over 607+ NASA research papers*
 
 <br/>
@@ -179,12 +177,11 @@ Specialties:
 
 **Intelligent Baseline Mapping Tool**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/World%20Map.png" width="50"/>
-
 *AI-powered tool for baseline mapping in modern web development*
 
-<br/><br/>
+<br/>
 
+[![Live Demo](https://img.shields.io/badge/🌐_Live-Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-baseline-map.vercel.app/)
 [![Code](https://img.shields.io/badge/💻_View-Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cmk31311/AI_Baseline_Map)
 
 <br/>
@@ -288,94 +285,24 @@ const currentFocus = {
 
 ---
 
-<h2 align="center">🏅 GitHub Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cmk31311&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="trophy"/>
-</div>
-
-<br/>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Cmk31311&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Cmk31311&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B00&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Cmk31311&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
-</div>
-
-<br/>
-
----
-
-<h2 align="center">💬 Let's Connect & Collaborate!</h2>
-
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
+<h2>💬 Let's Connect!</h2>
 
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🌐 Portfolio
-[![Portfolio](https://img.shields.io/badge/Visit_My_Site-0891b2?style=for-the-badge&logo=vercel&logoColor=white)](https://khadar-chittor.vercel.app/)
-
-*Check out my projects & work*
-
-</td>
-<td align="center" width="33%">
-
-### 📧 Email
-[![Email](https://img.shields.io/badge/Let's_Talk-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmkadhar3@gmail.com)
-
-*Always open to opportunities*
-
-</td>
-<td align="center" width="33%">
-
-### 🤝 GitHub
-[![Follow](https://img.shields.io/badge/Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cmk31311)
-
-*Let's build together!*
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-### 🚀 Open for Collaboration
-
-```typescript
-const collaboration = {
-  interests: [
-    "🤖 AI/ML Projects",
-    "🏆 Hackathons",
-    "💡 Open Source",
-    "🚀 Innovative Startups"
-  ],
-  expertise: ["RAG Systems", "Full-Stack AI", "LLMs", "Web Development"],
-  currently: "Building the future with AI",
-  availability: "Always excited for new challenges! 💪"
-};
-
-// Let's create something amazing together! 🌟
-```
+<p>
+  <a href="https://khadar-chittor.vercel.app/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-0891b2?style=for-the-badge&logoColor=white&labelColor=1e293b">
+  </a>
+  <a href="mailto:cmkadhar3@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/📧_Email-Let's_Connect-ea4335?style=for-the-badge&logoColor=white&labelColor=1e293b">
+  </a>
+  <a href="https://github.com/Cmk31311">
+    <img alt="GitHub" src="https://img.shields.io/badge/💻_GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b">
+  </a>
+</p>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=120&section=footer" width="100%"/>
-
-<br/>
-
-<img src="https://visitcount.itsvg.in/api?id=Cmk31311&label=Profile%20Views&color=0&icon=5&pretty=true" alt="Profile Views"/>
 
 </div>
