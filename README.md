@@ -86,7 +86,7 @@ Specialties:
 
 <br/>
 
-> 💡 **Fun Fact:** I can transform a complex research dataset into a production-ready AI dashboard faster than you can say "RAG pipeline"! 🚀
+> ☕ **Fun Fact:** My AI models run on GPU power. I run on coffee power. We're basically the same thing!
 
 </div>
 
@@ -203,7 +203,7 @@ Specialties:
 ### 📱 **More Projects**
 
 <table>
-<tr>
+  <tr>
 <td align="center" width="33%">
 
 **Taflo**  
@@ -219,7 +219,7 @@ Specialties:
 
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge)
 
-</td>
+    </td>
 <td align="center" width="33%">
 
 **Your Next Project?**  
@@ -227,8 +227,8 @@ Specialties:
 
 [![Contact](https://img.shields.io/badge/Let's-Talk-success?style=for-the-badge)](mailto:cmkadhar3@gmail.com)
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
 </div>
