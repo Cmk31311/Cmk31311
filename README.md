@@ -102,23 +102,3 @@ Updated: _pending first run_
   <!-- Contribution graph (fun visual) -->
   <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Cmk31311&area=true" />
 </div>
-
----
-
-### How it “feels” interactive
-- **Collapsible sections** (`<details>`/`<summary>`) you can click to open/close.
-- **Dynamic SVGs** (stats, streaks, graphs) update themselves server-side.
-- **GitHub Actions** below will _rewrite_ the README between the markers:
-  - `<!--now:start--> ... <!--now:end-->` (timestamp / status)
-  - `<!--blog:start--> ... <!--blog:end-->` (optional: latest posts)
-
-### Setup
-1) Create a repo named **Cmk31311** (exact match).
-2) Put this `README.md` at the root.
-3) Commit the workflow at `.github/workflows/update-readme.yml`.
-4) Edit placeholders: `Cmk31311`, `YOUR_TWITTER_HANDLE`, project links.
-5) Enable Actions (first run may be manual via “Run workflow”).
-
----
-
-<sub>Inspired by the community: readme-stats, readme-streak-stats, activity-graph, skillicons, shields.</sub>
