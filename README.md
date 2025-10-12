@@ -1,12 +1,9 @@
-<!--
-Replace all occurrences of Cmk31311 with your GitHub username.
-This README is designed for a special repo named exactly like your username.
-Example: octocat/octocat
--->
-
 <div align="center">
-  <h1>Hi, I'm <span title="Change me">Khadar Chittor</span> 👋</h1>
-  <p><em>Developer • Builder • Curious human</em></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=180&section=header&text=Khadar%20Chittor&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20AI%20Developer%20%7C%20Hackathon%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
+
+  <h3>👋 Welcome to my GitHub!</h3>
+  <p><em>🤖 AI Engineer • 💻 Full-Stack Developer • 🏆 Hackathon Builder</em></p>
 
   <!-- Social / contact buttons (edit links) -->
   <p>
@@ -19,58 +16,104 @@ Example: octocat/octocat
   </p>
 
   <!-- Animated typing SVG (optional) -->
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&pause=900&center=true&vCenter=true&width=500&lines=I+love+TypeScript;I+build+useful+tools;I+care+about+DX+%26+accessibility" alt="typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&pause=900&center=true&vCenter=true&width=600&lines=Full-Stack+AI+Developer;Hackathon+Enthusiast+🏆;Building+with+Next.js+%2B+AI;RAG+%7C+LLMs+%7C+Web+Dev" alt="typing animation" />
 </div>
 
 ---
 
 <!-- Quick intro with collapsible bits -->
 <details open>
-  <summary><strong>About me</strong></summary>
+  <summary><strong>🚀 About me</strong></summary>
 
-- 🔭 I’m currently working on: **Project X** (dev tools / DX)
-- 🌱 Learning: **Rust**, **Astro**, **tRPC**
-- 💬 Ask me about: API design, testing, docs-as-code
-- ⚡ Fun fact: I collect vintage keyboards
-
-</details>
-
-<details>
-  <summary><strong>Tech I use</strong> (click to expand)</summary>
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,python,nodejs,express,mongodb,firebase,git,github,vscode,vercel" alt="skills" />
+- 🏆 **Hackathon Builder** — Competed in NASA Space Apps & Google Chrome Baseline Tooling hackathons
+- 🤖 **AI Engineer** — Building RAG systems, knowledge engines, and AI-powered applications
+- 💡 **Full-Stack Dev** — Specializing in Next.js, React, Python, and modern web technologies
+- 🧠 **Currently Exploring** — LLMs, vector databases, semantic search, and AI agents
+- 💬 **Ask me about** — RAG pipelines, hackathon strategies, full-stack AI development
+- ⚡ **Fun fact** — I can turn a research paper dataset into an interactive AI dashboard overnight!
 
 </details>
 
 <details>
-  <summary><strong>Featured projects</strong> (click to expand)</summary>
+  <summary><strong>🛠️ Tech Stack & Tools</strong></summary>
 
-- 🗺️ <a href="https://github.com/Cmk31311/AI_Baseline_Map">AI Baseline Map</a> — AI Baseline Map tool for the Baseline Tooling Hackathon by Google Chrome
-- 🚀 <a href="https://github.com/Cmk31311/Gen-Aistro">Gen-Aistro</a> — NASA Space Biology Knowledge Engine for NASA Space Apps Hackathon (RAG-powered research dashboard)
-- 📱 <a href="https://github.com/Cmk31311/taflo">Taflo</a> — Task flow management application
+<br/>
+
+**Languages & Frameworks:**
+<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express" alt="languages" />
+
+**AI & Data:**
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="ai" /> 
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Styling & UI:**
+<img src="https://skillicons.dev/icons?i=tailwind,css,html" alt="styling" />
+
+**Databases & Backend:**
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres" alt="databases" />
+
+**Tools & Platforms:**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,aws" alt="tools" />
 
 </details>
 
 <details>
-  <summary><strong>Blog (latest)</strong> — auto-updates via Action</summary>
+  <summary><strong>🏆 Hackathon Achievements</strong></summary>
 
-<!--blog:start-->
-- _(pending — see workflow below)_
-<!--blog:end-->
+<br/>
+
+### 🚀 NASA Space Apps Hackathon
+**Gen-Aistro** - NASA Space Biology Knowledge Engine  
+*Full-stack RAG system with 607 research papers, semantic search, and AI-powered Q&A*  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://gen-aistro.vercel.app/) [![GitHub](https://img.shields.io/badge/View-Code-black?style=for-the-badge&logo=github)](https://github.com/Cmk31311/Gen-Aistro)
+
+**Tech:** Next.js • Python • RAG • Groq LLM • Vector Embeddings • TailwindCSS
+
+---
+
+### 🗺️ Google Chrome Baseline Tooling Hackathon  
+**AI Baseline Map** - Intelligent baseline mapping tool  
+[![GitHub](https://img.shields.io/badge/View-Code-black?style=for-the-badge&logo=github)](https://github.com/Cmk31311/AI_Baseline_Map)
+
+**Tech:** React • Next.js • AI Integration
+
+---
+
+### 📱 Other Projects
+**Taflo** - Task flow management application  
+[![GitHub](https://img.shields.io/badge/View-Code-black?style=for-the-badge&logo=github)](https://github.com/Cmk31311/taflo)
 
 </details>
 
-<details>
-  <summary><strong>Now</strong> — what I’m focused on</summary>
+<details open>
+  <summary><strong>🎯 What I'm working on right now</strong></summary>
 
-<!--now:start-->
-Updated: _pending first run_
-<!--now:end-->
+- 🏗️ **AWS AI Agent Global Hackathon** — Building innovative AI agent solutions
+- 🔬 Experimenting with multi-agent systems and autonomous workflows
+- 🚀 Exploring AWS Bedrock and advanced AI orchestration
+- 📚 Learning about agent frameworks and tool-calling patterns
 
 </details>
 
 ---
 
 <div align="center">
-  <sub>Thanks for visiting! Feel free to reach out via email or check out my portfolio.</sub>
+  
+### 💬 Let's Connect!
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-0891b2?style=for-the-badge)](https://khadar-chittor.vercel.app/)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-ea4335?style=for-the-badge)](mailto:cmkadhar3@gmail.com)
+
+<br/>
+
+```diff
++ Open to collaboration on AI/ML projects and hackathons!
++ Always excited to discuss RAG systems, LLMs, and full-stack development
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
 </div>
