@@ -13,10 +13,9 @@ Example: octocat/octocat
     <a href="https://khadar-chittor.vercel.app/">
       <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel">
     </a>
-    <a href="mailto:you@example.com">
-      <img alt="Email me" src="https://img.shields.io/badge/Email-Contact-informational">
+    <a href="mailto:cmkadhar3@gmail.com">
+      <img alt="Email me" src="https://img.shields.io/badge/Email-cmkadhar3@gmail.com-informational?style=for-the-badge">
     </a>
-    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Cmk31311&label=Profile%20views&color=0e75b6&style=flat">
   </p>
 
   <!-- Animated typing SVG (optional) -->
@@ -39,39 +38,16 @@ Example: octocat/octocat
 <details>
   <summary><strong>Tech I use</strong> (click to expand)</summary>
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,astro,tailwind,python,go,nodejs,deno,graphql,postgres,docker,aws,vercel" alt="skills" />
-
-</details>
-
-<!-- Feels interactive: collapsible sections + live SVG cards + auto-updating blocks -->
-<details open>
-  <summary><strong>Live stats</strong></summary>
-
-<table>
-  <tr>
-    <td>
-      <!-- GitHub Stats Card -->
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Cmk31311&show_icons=true&hide=prs&include_all_commits=true" />
-    </td>
-    <td>
-      <!-- Top Langs Card -->
-      <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cmk31311&layout=compact&langs_count=8" />
-    </td>
-  </tr>
-</table>
-
-<!-- Streaks (optional) -->
-<img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Cmk31311" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,python,nodejs,express,mongodb,firebase,git,github,vscode,vercel" alt="skills" />
 
 </details>
 
 <details>
   <summary><strong>Featured projects</strong> (click to expand)</summary>
 
-<!-- Replace REPO links/titles -->
-- 🚀 <a href="https://github.com/Cmk31311/awesome-project">awesome-project</a> — tiny CLI to scaffold REST clients
-- 📦 <a href="https://github.com/Cmk31311/ui-kit">ui-kit</a> — headless + accessible components
-- 🧪 <a href="https://github.com/Cmk31311/test-matrix">test-matrix</a> — CI matrix templates
+- 🗺️ <a href="https://github.com/Cmk31311/AI_Baseline_Map">AI Baseline Map</a> — AI Baseline Map tool for the Baseline Tooling Hackathon by Google Chrome
+- 🚀 <a href="https://github.com/Cmk31311/Gen-Aistro">Gen-Aistro</a> — NASA Space Biology Knowledge Engine for NASA Space Apps Hackathon (RAG-powered research dashboard)
+- 📱 <a href="https://github.com/Cmk31311/taflo">Taflo</a> — Task flow management application
 
 </details>
 
@@ -96,26 +72,5 @@ Updated: _pending first run_
 ---
 
 <div align="center">
-  <!-- Contribution graph (fun visual) -->
-  <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Cmk31311&area=true" />
+  <sub>Thanks for visiting! Feel free to reach out via email or check out my portfolio.</sub>
 </div>
-
----
-
-### How it “feels” interactive
-- **Collapsible sections** (`<details>`/`<summary>`) you can click to open/close.
-- **Dynamic SVGs** (stats, streaks, graphs) update themselves server-side.
-- **GitHub Actions** below will _rewrite_ the README between the markers:
-  - `<!--now:start--> ... <!--now:end-->` (timestamp / status)
-  - `<!--blog:start--> ... <!--blog:end-->` (optional: latest posts)
-
-### Setup
-1) Create a repo named **Cmk31311** (exact match).
-2) Put this `README.md` at the root.
-3) Commit the workflow at `.github/workflows/update-readme.yml`.
-4) Edit placeholders: `Cmk31311`, `YOUR_TWITTER_HANDLE`, project links.
-5) Enable Actions (first run may be manual via “Run workflow”).
-
----
-
-<sub>Inspired by the community: readme-stats, readme-streak-stats, activity-graph, skillicons, shields.</sub>
