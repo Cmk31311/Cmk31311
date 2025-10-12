@@ -90,6 +90,11 @@ Specialties:
 
 </div>
 
+<div align="center">
+<br/>
+<sub><em>💭 I'm iterating daily, so what you see today will probably change tomorrow</em></sub>
+</div>
+
 <br/>
 
 <h2 align="center">🛠️ Tech Arsenal</h2>
@@ -102,6 +107,7 @@ Specialties:
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express&theme=dark&perline=7" />
 </p>
+<sub>TypeScript • JavaScript • Python • React • Next.js • Node.js • Express</sub>
 
 ### 🤖 AI & Machine Learning
 <p>
@@ -111,21 +117,25 @@ Specialties:
   <img src="https://img.shields.io/badge/Groq-FF6B00?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAA&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-00599C?style=for-the-badge&logo=ai&logoColor=white" />
 </p>
+<sub>TensorFlow • PyTorch • LangChain • OpenAI • Groq • RAG Systems</sub>
 
 ### 🎨 Frontend & Styling
 <p>
   <img src="https://skillicons.dev/icons?i=tailwind,css,html,figma&theme=dark" />
 </p>
+<sub>Tailwind CSS • CSS3 • HTML5 • Figma</sub>
 
 ### 🗄️ Databases & Backend
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres,redis&theme=dark" />
 </p>
+<sub>MongoDB • Firebase • PostgreSQL • Redis</sub>
 
 ### ⚙️ Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,aws,postman&theme=dark" />
 </p>
+<sub>Git • GitHub • VS Code • Vercel • Docker • AWS • Postman</sub>
 
 </div>
 
@@ -300,12 +310,6 @@ const currentFocus = {
     <img alt="GitHub" src="https://img.shields.io/badge/💻_GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b">
   </a>
 </p>
-
-<br/>
-
----
-
-<sub><em>💭 I'm iterating daily, so what you see today will probably change tomorrow</em></sub>
 
 <br/>
 
