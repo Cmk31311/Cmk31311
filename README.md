@@ -45,7 +45,7 @@
 Competitions:
   - NASA Space Apps Hackathon
   - Google Chrome Baseline Tooling
-  - AWS AI Agent Global (Ongoing)
+  - AWS AI Agent Global Hackathon
 ```
 
 </td>
