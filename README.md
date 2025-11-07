@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=200&section=header&text=Khadar%20Chittor&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20AI%20Developer%20%7C%20Hackathon%20Enthusiast&descAlignY=55&descAlign=50&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=200&section=header&text=Khadar%20Chittor&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20AI%20Developer%20%&descAlignY=55&descAlign=50&descSize=20" width="100%"/>
 
 <h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=👋+Welcome+to+my+Digital+Space!;🤖+AI+Engineer+%7C+Hackathon+Enthusiast;💻+Building+the+Future+with+AI;🚀+Let's+Create+Something+Amazing!" alt="Typing SVG" />
