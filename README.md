@@ -98,6 +98,16 @@ Specialties:
 
 <br/>
 
+<h2 align="center">⚡ Coding Activity</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Cmk31311&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&layout=compact" alt="Coding Activity" width="50%"/>
+
+</div>
+
+<br/>
+
 <h2 align="center">🛠️ Tech Arsenal</h2>
 
 <div align="center">
@@ -151,6 +161,27 @@ Specialties:
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
+
+</div>
+
+<br/>
+
+<h2 align="center">📌 Featured Projects</h2>
+
+<div align="center">
+
+<a href="https://github.com/Cmk31311/Gen-Aistro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cmk31311&repo=Gen-Aistro&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
+</a>
+<a href="https://github.com/Cmk31311/AI_Baseline_Map">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cmk31311&repo=AI_Baseline_Map&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Cmk31311/taflo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cmk31311&repo=taflo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
+</a>
 
 </div>
 
@@ -260,11 +291,47 @@ Specialties:
 
 <br/>
 
+<h2 align="center">📊 GitHub Stats & Activity</h2>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Cmk31311&label=Profile%20Views&color=00D9FF&style=for-the-badge)
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Cmk31311&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cmk31311&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="48%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cmk31311&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" alt="Top Languages" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cmk31311&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff" alt="Contribution Graph" width="48%"/>
+
+<br/><br/>
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=Cmk31311&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+
+<br/><br/>
+
+### 🐍 Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cmk31311/Cmk31311/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cmk31311/Cmk31311/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cmk31311/Cmk31311/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<br/>
+
 <h2 align="center">🎯 Current Mission</h2>
 
 <div align="center">
-  
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 
 <table>
 <tr>
@@ -297,9 +364,9 @@ const currentFocus = {
 
 <br/><br/>
 
-✨ Agent Frameworks & Patterns  
-⚡ Tool-Calling Architectures  
-🔬 Autonomous Workflow Design  
+✨ Agent Frameworks & Patterns
+⚡ Tool-Calling Architectures
+🔬 Autonomous Workflow Design
 🎯 AI Orchestration at Scale
 
 </td>
