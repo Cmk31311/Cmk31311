@@ -26,34 +26,51 @@ I like shipping, iterating, and turning “cool idea” into “live link”.
 
 ## What I’m into (right now)
 
-- **Browser automation** (currently trying to automate the browser without it fighting back)
-- **Agent workflows** + tool-calling (when automation should feel magical, not chaotic)
-- **RAG / semantic search** (the “find it fast�� kind of stuff)
+- **Browser automation** (Playwright lately — the browser does what I say... eventually)
+- **Automation + agent workflows** (tool-calling, pipelines, glue code that saves time)
+- **RAG / semantic search** (the “find it fast” kind of stuff)
 
 ---
 
 ## Stack
 
-**Frontend:** React, Next.js, Tailwind  
-**Backend:** Node.js, Express  
-**Data:** Postgres, MongoDB, Redis  
-**AI-ish tools:** embeddings, vector search, LangChain-style orchestration  
-**Ops:** Docker, AWS, Vercel
+**Automation / Testing**
+- Playwright
+
+**Languages**
+- TypeScript / JavaScript
+- Python
+
+**Frontend**
+- React, Next.js, Tailwind CSS
+
+**Backend**
+- Node.js, Express
+
+**Auth / Data / Storage**
+- Supabase (Auth + Postgres + Storage)
+- Redis (when I need caching / queues)
+
+**Cloud / DevOps**
+- AWS
+- Docker
+- GitHub Actions (CI + scheduled automations)
+- CloudWatch (alarms + schedules)
+- Vercel (deployments)
 
 ---
 
 ## Stuff worth clicking
 
-- **Gen-Aistro** — RAG dashboard + semantic search  
+- **Gen-Aistro** — NASA Space Biology Knowledge Engine  
   Live: https://gen-aistro.vercel.app/  
   Code: https://github.com/Cmk31311/Gen-Aistro
 
-- **AI Baseline Map** — baseline mapping helper for modern web dev  
-  Live: https://ai-baseline-map.vercel.app/  
-  Code: https://github.com/Cmk31311/AI_Baseline_Map
+- **GAIA Pulse** — interactive Earth monitoring + data storytelling  
+  Code: https://github.com/Cmk31311/GAIA-pulse
 
-- **Taflo** — task flow management  
-  Code: https://github.com/Cmk31311/taflo
+- **ScreenAI-app** — TypeScript-heavy app (70% TS)  
+  Code: https://github.com/Cmk31311/ScreenAI-app
 
 ---
 
