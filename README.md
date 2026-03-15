@@ -20,21 +20,19 @@ I build clean UIs, solid APIs, and smart search that actually finds the thing yo
 I like shipping, iterating, and turning “cool idea” into “live link”.
 </p>
 
-<p><i>Fun fact:</i> I debug with confidence and deploy with hope.</p>
-
 </div>
 
 ---
 
 ## What I’m into (right now)
 
-- **RAG / semantic search** (the “find it fast” kind of stuff)
+- **Browser automation** (currently trying to automate the browser without it fighting back)
 - **Agent workflows** + tool-calling (when automation should feel magical, not chaotic)
-- **Full-stack web apps** with great UX and sane architecture
+- **RAG / semantic search** (the “find it fast�� kind of stuff)
 
 ---
 
-## Stack (high level, no essay)
+## Stack
 
 **Frontend:** React, Next.js, Tailwind  
 **Backend:** Node.js, Express  
@@ -64,8 +62,4 @@ I like shipping, iterating, and turning “cool idea” into “live link”.
 If you’re building something interesting (or breaking something interesting), I’m down to chat.
 
 - Portfolio: https://khadarchittor.vercel.app/  
-- Email: cmkadhar3@gmail.com  
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=110&section=footer" width="100%"/>
-</div>
+- Email: cmkadhar3@gmail.com
